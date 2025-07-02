@@ -17,14 +17,14 @@
 
 🛠️ Технологии:
 
-			React
-			TypeScript
-			Vite
-			useContext (React Context API)
-			Swiper (слайдер)
-			Axios (HTTP-запросы)
-			ESLint + Prettier для качества кода
-			SCSS Modules
+		React
+		TypeScript
+		Vite
+		useContext (React Context API)
+		Swiper (слайдер)
+		Axios (HTTP-запросы)
+		ESLint + Prettier для качества кода
+		SCSS Modules
 
 
 📦 Установка и запуск
