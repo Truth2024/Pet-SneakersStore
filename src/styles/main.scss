@@ -1,0 +1,55 @@
+@use "./variables" as *;
+
+body {
+	font-family: 'Inter', sans-serif;
+	background: var(--body-bg);
+}
+
+.wrapper {
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.04);
+	background: #fff;
+	border-radius: 20px;
+	max-width: 1080px;
+	margin: 50px auto;
+	min-height: calc(100vh - 50px);
+	display: flex;
+	flex-direction: column;
+}
+
+.m-0 {
+	margin: 0;
+}
+
+.p-29 {
+	padding: 29px;
+}
+
+.gap-20 {
+	gap: 20px
+}
+
+.gap-32 {
+	gap: 32px;
+}
+
+.gap-40 {
+	gap: 40px;
+}
+
+.border {
+	border-bottom: 1px solid #eaeaea;
+}
+
+// STYLES
+
+.search {
+	border: 1px solid #f3f3f3;
+	border-radius: 10px;
+	padding: 0 15px;
+
+	input {
+		border: 0;
+		padding: 13px;
+		width: 200px;
+	}
+}
