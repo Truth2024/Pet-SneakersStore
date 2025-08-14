@@ -5,7 +5,7 @@
   <table style="border: 2px solid #4a86e8; border-radius: 8px; padding: 10px">
     <tr>
       <td>
-        <img src="https://github.com/Truth2024/Pet-Marusya-Films/blob/main/src/assets/sneakesr.png" 
+        <img src="https://github.com/Truth2024/Pet-Marusya-Films/blob/main/src/assets/sneakers.png" 
              alt="Sneakers" 
              style="width: 100%; max-width: 100%; height: auto"/>
       </td>
