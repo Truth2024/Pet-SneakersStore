@@ -1,6 +1,18 @@
 # 📝 Pet Sneakers Store (React + TypeScript + Vite)
-Магазин кроссовок, созданный с использованием современных библиотек для удобного и быстрого интерфейса.
- **React**, **TypeScript** и **Vite**.
+
+<div align="center">
+    <p><strong>Магазин кроссовок, созданный с использованием современных библиотек для удобного и быстрого интерфейса.</strong></p>
+  <table style="border: 2px solid #4a86e8; border-radius: 8px; padding: 10px">
+    <tr>
+      <td>
+        <img src="https://github.com/Truth2024/Pet-Marusya-Films/blob/main/src/assets/sneakesr.png" 
+             alt="Sneakers" 
+             style="width: 100%; max-width: 100%; height: auto"/>
+      </td>
+    </tr>
+  </table>
+  <p><strong>React</strong>, <strong>TypeScript</strong> и <strong>Vite</strong></p>
+</div>
 
 ## 🚀 Возможности
 
